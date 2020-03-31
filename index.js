@@ -57,7 +57,7 @@ function drawPaddle() {
 function drawScore() {
     ctx.font = "30px Arial";
     ctx.fillStyle = "#FFFFFF";
-    ctx.fillText("Score: "+score, 8, 20);
+    ctx.fillText("Score: "+score, 8, 27);
 }
 
 function scoreIncrease() {
