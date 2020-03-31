@@ -1,6 +1,7 @@
 p {
     font-family: arial;
     font-size: 300%;
+    color: white;
 }
 canvas {
     border: 2px solid white;
