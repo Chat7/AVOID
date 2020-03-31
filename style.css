@@ -1,0 +1,7 @@
+p {
+    font-family: arial;
+    font-size: 300%;
+}
+canvas {
+    border: 2px solid white;
+}
